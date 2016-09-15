@@ -1,0 +1,5 @@
+admin details:
+
+
+user name:admin
+password: priya123
